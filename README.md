@@ -4,11 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mutune😁!;+Welcome+to+my+L🔬B" />
 </h1>
 
+<img style="border-radius: 40px" src="C:\Users\Qefiney\projects\qefiney\image\2.jpg">
+
 <h3 align="center">A passionate front-end developer from Nairobi, Kenya</h3>
 
 <br/>
 
-<div align="center">
+  <div align="center">
  
  🔭 I’m currently working on **Plumblink🌐 and Qefiney🏢Creatives**
  
@@ -17,6 +19,8 @@
  ⚡ Fun fact **Petrol⛽Head**
  
  </div>
+
+
  
 <div align="center"> 
   <a href="mailto:qefiney@gmail.com">
@@ -33,8 +37,8 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
+    <img style = "width: 240px;" src ="C:\Users\Qefiney\projects\qefiney\image\1.gif"><br>
     <img src="https://skillicons.dev/icons?i=nodejs,github,dart,javascript,express,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,figma,git,flutter" />
 </div>
