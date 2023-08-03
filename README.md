@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mutune😁!;+Welcome+to+my+L🔬B" />
 </h1>
 
-<img style="border-radius: 40px" src="C:\Users\Qefiney\projects\qefiney\image\2.jpg">
+<img style="border-radius: 40px" src="image\2.jpg">
 
 <h3 align="center">A passionate front-end developer from Nairobi, Kenya</h3>
 
@@ -38,7 +38,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img style = "width: 240px;" src ="C:\Users\Qefiney\projects\qefiney\image\1.gif"><br>
+    <img style = "width: 240px;" src ="image\1.gif"><br>
     <img src="https://skillicons.dev/icons?i=nodejs,github,dart,javascript,express,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,figma,git,flutter" />
 </div>
