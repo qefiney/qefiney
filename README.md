@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img style = "width: 240px;" src ="image\1.gif"><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,github,dart,javascript,nextjs,express,firebase,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,dart,javascript,nextjs,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,figma,git,flutter" />
 </div>
 
