@@ -36,7 +36,7 @@
 <div align="center">
     <img style = "width: 240px;" src ="image\1.gif"><br>
     <img src="https://skillicons.dev/icons?i=nodejs,dart,github,javascript,nextjs,firebase,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,figma,git,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,express,css,figma,git,flutter" />
 </div>
 
 <br/>
